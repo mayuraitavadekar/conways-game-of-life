@@ -4,7 +4,7 @@ This is implementation of cellular Automata as per Conway's Game of Life.
 
 ## Usage
 
-[Click Here](https://mayuraitavadekar.github.io/conway-game-of-life/.) to see the stimulation of cellular automata. 
+[Click Here](https://mayuraitavadekar.github.io/conways-game-of-life/) to see the stimulation of cellular automata. 
 
 ## What is Conway's Game of Life?
 
