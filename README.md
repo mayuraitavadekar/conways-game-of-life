@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-This is implementation of cellular Automata as per Conway's Game of Life.
+This is implementation of cellular automata as per Conway's Game of Life.
 
 ## Usage
 
